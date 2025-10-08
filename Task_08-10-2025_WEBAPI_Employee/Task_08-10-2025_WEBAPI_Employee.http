@@ -1,0 +1,6 @@
+@Task_08_10_2025_WEBAPI_Employee_HostAddress = http://localhost:5224
+
+GET {{Task_08_10_2025_WEBAPI_Employee_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
